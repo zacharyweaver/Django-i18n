@@ -9,15 +9,15 @@
 </ol>
 
 ```
-PND
+PND (Project Folder)
 |
 └─── manage.py
 |     
-└─── PND 
+└─── PND (project settings)
 |     └─── settings.py
 |     └─── urls.py    
 |          ...
-└─── France
+└─── France (django app)
 |      |
 |      └─── settings.py
 |      |
